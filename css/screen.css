@@ -33,7 +33,7 @@ h2 {
   text-transform: uppercase;
 }
 
-p {
+p, li {
   line-height: 150%;
   text-align: justify;
 }
