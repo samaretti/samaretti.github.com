@@ -1,0 +1,52 @@
+* {
+  line-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #f7f7f7;
+  color: #333;
+  font-family: 'lucida grande', 'lucida sans unicode', sans-serif;
+  margin: 64px auto;
+  width: 400px;
+}
+
+a {
+  color: #551a8b;
+}
+
+h1 {
+  font-family: palatino, 'palatino linotype', 'book antiqua', serif;
+  font-size: 64px;
+  font-weight: 100;
+  margin: 0 0 48px;
+  text-align: center;
+}
+
+h2 {
+  color: #979797;
+  font-size: 13px;
+  font-weight: 100;
+  letter-spacing: 1px;
+  margin: 40px 0 16px;
+  text-transform: uppercase;
+}
+
+p {
+  line-height: 150%;
+  text-align: justify;
+}
+
+li {
+  list-style: none;
+}
+
+div.tilde {
+  color: #dfdfdf;
+  font-family: georgia, serif;
+  font-size: 128px;
+  font-weight: 100;
+  text-align: center;
+  text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.2);
+}
