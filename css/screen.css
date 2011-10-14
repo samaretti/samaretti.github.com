@@ -41,12 +41,3 @@ p, li {
 li {
   list-style: none;
 }
-
-div.tilde {
-  color: #dfdfdf;
-  font-family: georgia, serif;
-  font-size: 128px;
-  font-weight: 100;
-  text-align: center;
-  text-shadow: 0 -1px 1px rgba(0, 0, 0, 0.2);
-}
